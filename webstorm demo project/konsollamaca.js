@@ -5,4 +5,4 @@ console.log("Webstorm ogreniyorummm");
      console.log(a);
  }
 
-// yorum satırı
+// yorum satırıııı
